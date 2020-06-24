@@ -1,6 +1,6 @@
 # CakePHP 3
 
-/vendor/*
+/nbproject*
 /config/app.php
 
 /tmp/cache/models/*
@@ -23,3 +23,4 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+/nbproject/private/
